@@ -1,0 +1,25 @@
+# SATYA Cybersecurity IDS - Requirements
+# Core ML and Data Processing
+pandas>=1.3.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Dashboard and Visualization
+dash>=2.0.0
+plotly>=5.0.0
+
+# Report Generation
+fpdf2>=2.5.0
+
+# API Integration
+requests>=2.25.0
+
+# Jupyter Notebooks
+jupyter>=1.0.0
+ipywidgets>=7.6.0
+
+# Additional dependencies
+python-dateutil>=2.8.0
+pytz>=2021.0
