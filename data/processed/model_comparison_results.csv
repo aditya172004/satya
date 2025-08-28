@@ -1,0 +1,6 @@
+Model,Precision,Recall,F1-score,Train Acc,Test Acc,Fit Status
+Logistic Regression,1.0,1.0,1.0,1.0,1.0,OK
+Decision Tree,1.0,1.0,1.0,1.0,1.0,OK
+Random Forest,1.0,1.0,1.0,1.0,1.0,OK
+KNN,0.8,1.0,0.8888888888888888,0.953125,0.8125,Overfitting
+SVM,1.0,1.0,1.0,1.0,1.0,OK
